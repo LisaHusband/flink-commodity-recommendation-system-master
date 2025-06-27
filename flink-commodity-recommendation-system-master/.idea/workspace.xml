@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd1df7d9-a7d5-4a39-8b41-08e1f12b3b46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/recommendation/target/" />
+    <ignored path="$PROJECT_DIR$/recommend_backend/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="product: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="rating: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="3d79f707-de64-4017-8588-bd2e403b019f" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="706">
+                <caret line="168" column="10" selection-start-line="168" selection-start-column="10" selection-end-line="168" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/HbaseSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/HbaseClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/mysql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/products.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ContentRecommender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ItemCFTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/StatisticsTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OREAL PARIS巴黎欧莱雅男士劲能醒肤露 8重功效50ml</find>
+      <find>幸福了吗?(附完整版&quot;&quot;白岩松耶鲁大学演讲&quot;&quot;光盘1张</find>
+      <find>简约超长待机直板手机(黑色), https://images-cn-4.ssl-images-amazon.co</find>
+      <find>//images-cn-4.ssl-images-amazon.com/images/I/41MA9JZAjPL._SY344_BO1,204,203,200</find>
+      <find>://images-cn-4.ssl-images-amazon.com/images/I/31fB78eT38L._SY300_QL70_.jpg</find>
+      <find>致我们终将逝去的青春(附&quot;&quot;致青春&quot;&quot;珍藏卡册)&quot;</find>
+      <find>timestamp</find>
+      <find>mapResultToOutType</find>
+      <find>nextRecord</find>
+      <find>score 转换失败</find>
+      <find>logSplitInfo</find>
+      <find>Types</find>
+      <find>forEachRemaining</find>
+      <find>STRING</find>
+      <find>score</find>
+      <find>println</find>
+      <find>drivername</find>
+      <find>queryTemplate</find>
+      <find>username</find>
+      <find>hbase</find>
+      <find>查询错误</find>
+      <find>hasRows</find>
+      <find>product</find>
+      <find>count</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/HbaseTableSource.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/sink/HbaseTableSink.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/entity/RecommendEntity.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/MySqlSource.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/JDBCSource.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/recommendation/pom.xml" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ContentRecommender.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/ProductServiceController.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/entity/RecommendEntity.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/dao/impl/ProductDaoImpl.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/entity/Product.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/MysqlClient.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/DataLoader/DataLoaderTask.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ItemCFTask.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/test/java/com/ly/recommend_backend/RecommendBackendApplicationTests.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/StatisticsTask.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/sink/HbaseSink.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/util/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/pom.xml" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/entity/User.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/HbaseClient.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/service/UserService.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/dao/UserInterface.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/DataToHbaseMapFunction.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/OnlineRecommendMapFunction.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/entity/ProductEntity.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/util/HotProducts.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OnlineRecommender/TopNProductTask.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/HbaseClient.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/UDFKafkaProducer.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/RecommendBackendApplication.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/dao/ProductInterface.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/service/RecommendService.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/Property.java" />
+        <option value="$PROJECT_DIR$/recommend_backend/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/recommend_backend/HELP.md" />
+        <option value="$PROJECT_DIR$/recommend_front/public/index.html" />
+        <option value="$PROJECT_DIR$/recommend_front/README.md" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/resources/mysql.sql" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OnlineRecommender/UserActionRecommenderTask.java" />
+        <option value="$PROJECT_DIR$/recommendation/src/main/resources/hbase.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="recommendation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="recommendation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="recommendation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="mysql:mysql-connector-java:8.0.15" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-19" />
+    <option name="y" value="345" />
+    <option name="width" value="2180" />
+    <option name="height" value="1460" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FlinkCommodityRecommendationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlinkCommodityRecommendationSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlinkCommodityRecommendationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlinkCommodityRecommendationSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommend_front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlinkCommodityRecommendationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="ts.external.directory.path" value="D:\SVLY\project\FlinkCommodityRecommendationSystem\recommend_front\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SVLY\project\FlinkCommodityRecommendationSystem\recommendation\src\main\resources" />
+      <recent name="D:\SVLY\project\FlinkCommodityRecommendationSystem\recommend_backend\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ly.recommend_backend.entity" />
+      <recent name="com.ly.recommend_backend.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SVLY\project\FlinkCommodityRecommendationSystem\recommendation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UserActionRecommenderTask">
+    <configuration name="DataLoaderTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.task.DataLoader.DataLoaderTask" />
+      <module name="recommendation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.task.DataLoader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.client.HbaseClient" />
+      <module name="recommendation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.task.OfflineRecommender.StatisticsTask" />
+      <module name="recommendation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.task.OfflineRecommender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNProductTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.task.OnlineRecommender.TopNProductTask" />
+      <module name="recommendation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.task.OnlineRecommender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserActionRecommenderTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.task.OnlineRecommender.UserActionRecommenderTask" />
+      <module name="recommendation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.task.OnlineRecommender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="recommend_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ly.recommend_backend.RecommendBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DataLoaderTask" />
+      <item itemvalue="Application.StatisticsTask" />
+      <item itemvalue="Application.HbaseClient" />
+      <item itemvalue="Application.UserActionRecommenderTask" />
+      <item itemvalue="Application.TopNProductTask" />
+      <item itemvalue="Spring Boot.RecommendBackendApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserActionRecommenderTask" />
+        <item itemvalue="Application.TopNProductTask" />
+        <item itemvalue="Application.HbaseClient" />
+        <item itemvalue="Application.DataLoaderTask" />
+        <item itemvalue="Application.StatisticsTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1df7d9-a7d5-4a39-8b41-08e1f12b3b46" name="Default Changelist" comment="" />
+      <created>1597891961859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597891961859</updated>
+      <workItem from="1597891963126" duration="601000" />
+      <workItem from="1597918048421" duration="1228000" />
+      <workItem from="1597972960029" duration="20699000" />
+      <workItem from="1598000529352" duration="12424000" />
+      <workItem from="1598080985551" duration="23894000" />
+      <workItem from="1598111962629" duration="657000" />
+      <workItem from="1598113930108" duration="10574000" />
+      <workItem from="1598177101579" duration="424000" />
+      <workItem from="1598177582187" duration="2775000" />
+      <workItem from="1598187159300" duration="1035000" />
+      <workItem from="1598188239730" duration="754000" />
+      <workItem from="1598189044250" duration="552000" />
+      <workItem from="1598189711959" duration="16288000" />
+      <workItem from="1598231000260" duration="10709000" />
+      <workItem from="1598246969439" duration="20615000" />
+      <workItem from="1598277840019" duration="6346000" />
+      <workItem from="1598325897231" duration="7019000" />
+      <workItem from="1598333551958" duration="14890000" />
+      <workItem from="1598407433017" duration="18454000" />
+      <workItem from="1598434434361" duration="9823000" />
+      <workItem from="1598493921903" duration="6857000" />
+      <workItem from="1598509345397" duration="5568000" />
+      <workItem from="1598540725118" duration="2820000" />
+      <workItem from="1598580642966" duration="12840000" />
+      <workItem from="1598599019227" duration="6983000" />
+      <workItem from="1598679853112" duration="6828000" />
+      <workItem from="1600090745102" duration="2529000" />
+      <workItem from="1600165238656" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224885000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1742" height="1166" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7860395" visible="true" weight="0.20071259" />
+      <window_info id="Structure" order="1" sideWeight="0.21396054" side_tool="true" weight="0.24821852" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.52417797" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.38588008" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.34235978" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.29400387" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.65860736" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32978722" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.36266926" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32978722" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32978722" />
+      <window_info anchor="bottom" id="TypeScript" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.27256534" />
+      <window_info anchor="right" id="Database" order="5" weight="0.14014252" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7860395" visible="true" weight="0.25118765" />
+      <window_info id="Structure" order="1" sideWeight="0.21396054" side_tool="true" weight="0.24821852" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.52417797" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.38588008" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.34235978" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.29400387" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.65860736" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.36266926" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32978722" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.27256534" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.14014252" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.1/flink-core-1.7.1.jar!/org/apache/flink/api/java/typeutils/runtime/TupleSerializer.class</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.1/flink-core-1.7.1.jar!/org/apache/flink/api/common/typeutils/base/DoubleSerializer.class</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-jdbc/1.6.1/flink-jdbc-1.6.1.jar!/org/apache/flink/api/java/io/jdbc/JDBCInputFormat.class</url>
+          <line>241</line>
+          <properties class="org.apache.flink.api.java.io.jdbc.JDBCInputFormat.JDBCInputFormatBuilder" method="setDrivername">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Class)caller (slot_1)).cachedConstructor" custom="java.lang.Class" />
+        <watch expression="((JDBCSource)this).parameterValues" custom="com.ly.dataSource.JDBCSource" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recommend_front/.browserslistrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_front/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/util/HotProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="45" />
+          <folding>
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/startAll.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/stopAll.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/ratings.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/ratings2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/dao/ProductInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#89#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="153" column="106" lean-forward="true" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/service/RecommendService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/RecommendBackendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/HbaseClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="134" column="31" lean-forward="true" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/UDFKafkaProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="1437" column="23" selection-start-line="1437" selection-start-column="23" selection-end-line="1437" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="315" column="29" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_backend/src/main/java/com/ly/recommend_backend/util/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/MysqlClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1066">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/RedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/entity/RecommendEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/entity/ProductEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/HbaseTableSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/sink/HbaseSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OnlineRecommender/UserActionRecommenderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OnlineRecommender/TopNProductTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="37" column="76" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/DataLoader/DataLoaderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/CalculateSimilarityMapFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/DataLoaderMapFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/DataLoaderMapFunction2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/DataToHbaseMapFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="148" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="19" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/OnlineRecommendMapFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="87" column="45" lean-forward="true" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/RatingEntityMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/map/RecommendEntityMapFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/hbase.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/dataSource/HbaseSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/client/HbaseClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/products.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ContentRecommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/ItemCFTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/java/com/ly/task/OfflineRecommender/StatisticsTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="706">
+            <caret line="168" column="10" selection-start-line="168" selection-start-column="10" selection-end-line="168" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>recommendation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
